@@ -1,4 +1,4 @@
-# HotelCreatedEventHandler
+# HotelCreatedEventHandler with idempotency
 
 This project is an **AWS Lambda function** that handles hotel creation events published via **SNS**.  
 It ensures **idempotency** by storing processed event IDs in **DynamoDB** and indexes hotel data into **Elasticsearch**.
