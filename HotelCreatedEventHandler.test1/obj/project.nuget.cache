@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5tjutm73ete2zscCSwxZIYIdJ+RRKeR1pttpNp/jT464+pWQb/5rWHvyFj8u5F0hDRixjhQ8OrhyXyJ5mnGfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Udemy\\HotelCreatedEventHandler\\HotelCreatedEventHandler.test1\\HotelCreatedEventHandler.test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dibanubh\\.nuget\\packages\\amazon.lambda.core\\2.8.0\\amazon.lambda.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\dibanubh\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\dibanubh\\.nuget\\packages\\amazon.lambda.snsevents\\2.1.0\\amazon.lambda.snsevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\dibanubh\\.nuget\\packages\\awssdk.core\\4.0.3.6\\awssdk.core.4.0.3.6.nupkg.sha512",
+    "C:\\Users\\dibanubh\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.10.4\\awssdk.dynamodbv2.4.0.10.4.nupkg.sha512",
+    "C:\\Users\\dibanubh\\.nuget\\packages\\awssdk.simplenotificationservice\\4.0.2.10\\awssdk.simplenotificationservice.4.0.2.10.nupkg.sha512",
+    "C:\\Users\\dibanubh\\.nuget\\packages\\elastic.clients.elasticsearch\\9.2.2\\elastic.clients.elasticsearch.9.2.2.nupkg.sha512",
+    "C:\\Users\\dibanubh\\.nuget\\packages\\elastic.transport\\0.10.1\\elastic.transport.0.10.1.nupkg.sha512",
+    "C:\\Users\\dibanubh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

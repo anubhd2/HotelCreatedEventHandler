@@ -1,0 +1,14 @@
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\HotelCreatedEventHandler.csproj.AssemblyReference.cache
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\HotelCreatedEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\HotelCreatedEventHandler.AssemblyInfoInputs.cache
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\HotelCreatedEventHandler.AssemblyInfo.cs
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\HotelCreatedEventHandler.csproj.CoreCompileInputs.cache
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\linux-x64\HotelCreatedEventHandler.deps.json
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\linux-x64\HotelCreatedEventHandler.runtimeconfig.json
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\linux-x64\HotelCreatedEventHandler.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\linux-x64\HotelCreatedEventHandler.pdb
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\HotelCreatedEventHandler.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\refint\HotelCreatedEventHandler.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\HotelCreatedEventHandler.pdb
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\HotelCreatedEventHandler.genruntimeconfig.cache
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Release\net8.0\linux-x64\ref\HotelCreatedEventHandler.dll

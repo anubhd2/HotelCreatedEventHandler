@@ -1,0 +1,12 @@
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Debug\net8.0\HotelCreatedEventHandler.deps.json
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Debug\net8.0\HotelCreatedEventHandler.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Debug\net8.0\HotelCreatedEventHandler.pdb
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Debug\net8.0\HotelCreatedEventHandler.csproj.AssemblyReference.cache
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Debug\net8.0\HotelCreatedEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Debug\net8.0\HotelCreatedEventHandler.AssemblyInfoInputs.cache
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Debug\net8.0\HotelCreatedEventHandler.AssemblyInfo.cs
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Debug\net8.0\HotelCreatedEventHandler.csproj.CoreCompileInputs.cache
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Debug\net8.0\HotelCreatedEventHandler.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Debug\net8.0\refint\HotelCreatedEventHandler.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Debug\net8.0\HotelCreatedEventHandler.pdb
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\obj\Debug\net8.0\ref\HotelCreatedEventHandler.dll

@@ -1,0 +1,12 @@
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\HotelCreatedEventHandler.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\HotelCreatedEventHandler.deps.json
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\HotelCreatedEventHandler.runtimeconfig.json
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\HotelCreatedEventHandler.pdb
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\Amazon.Lambda.SNSEvents.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\AWSSDK.SimpleNotificationService.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\Elastic.Clients.Elasticsearch.dll
+C:\Udemy\HotelCreatedEventHandler\HotelCreatedEventHandler\bin\Release\net8.0\publish\Elastic.Transport.dll
